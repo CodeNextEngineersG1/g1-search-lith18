@@ -11,3 +11,18 @@ body {
 }
 
 /* place your styles below */
+#search-tools{
+  display: flex;
+  margin: 0 auto ;
+  justify-content: center;
+}
+
+#display{
+  margin: 0 auto;
+  max-width: 500px;
+  text-align: left;
+}
+
+#display h2 {
+  text-align: center;
+}
